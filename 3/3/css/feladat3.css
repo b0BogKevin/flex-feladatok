@@ -1,0 +1,56 @@
+#kulso{
+    width: 100vw;
+    height: 100vh;
+    background-color: bisque;
+}
+#container{
+    width: 700px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    }
+
+#cian{
+    width: 700px;
+    height: 100px;
+    background-color: aqua;
+
+}
+#szinek{
+display: flex;
+width: 100%;
+height: 100%;
+}
+
+
+#narancs{
+    background-color: orange;
+    height: 100%;
+    width: 100px;
+    margin-right: 50px;
+}
+#piros{
+    background-color: red;
+    height: 100%;
+    width: 400px;
+}
+#lila{
+    background-color: purple;
+    height: 100%;
+    width: 100px;
+    margin-left: 50px;
+}
+
+#kek{
+    background-color: blue;
+    height: 100px;
+    width: 100%;
+}
+
+#fekete{
+    float: right;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    margin-right: 100px;
+}

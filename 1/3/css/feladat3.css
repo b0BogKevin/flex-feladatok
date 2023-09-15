@@ -1,0 +1,26 @@
+#container{
+    width: 100vw;
+    height: 300px;
+    display: flex;
+
+    }
+    
+    #zold{
+        background-color: green;
+    
+        width: 100%;
+        height: 300px;
+        order: 2;
+    }
+    #sarga{
+        background-color: yellow;
+        width: 200%;
+        height: 300px;
+        order: 1;
+    }
+    #lila{
+        background-color: purple;
+        width: 100%;
+        height: 300px;
+        order: 0;
+    }

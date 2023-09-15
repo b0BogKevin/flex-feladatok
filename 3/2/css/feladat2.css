@@ -1,0 +1,62 @@
+#container{
+    width: 100vw;
+    height: 80vh;
+    display: flex;
+    
+    flex-direction: column;
+    }
+#szurkek{
+    width: 100vw;
+    height: 35px;
+    display:flex ;
+    margin-top: 5px;
+    align-content: center;
+    justify-content: center;
+}
+#szurke{
+    background-color: gray;
+    height: 90px;
+    width: 92vw;
+    margin-top: 20px;
+}
+#kekek{
+    width: 100vw;
+    height: 75px;
+    display:flex ;
+    margin-top: 5px;
+    background-color: purple;
+    padding-bottom: 5px;
+    padding-left: 100px;
+}
+#cian{
+    width: 100px;
+    height: 35px;
+    background-color: aqua;
+    margin: 5px;
+    margin-left: 10px;
+    align-content: center;
+    align-self: center;
+}
+#szinek{
+display: flex;
+width: 90vw;
+height: 100%;
+padding-left: 100px;
+padding-right: 70px;
+}
+
+#sarga{
+height: 100%;
+width: 65%;
+background-color: yellow;
+margin-left: 0px;
+margin-top: 10px;
+margin-left: 10px;
+}
+#zold{
+    height: 100%;
+    width: 35%;
+    background-color: green;
+    margin-left: 0px;
+    margin-top: 10px;
+}
